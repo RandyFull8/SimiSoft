@@ -48,6 +48,7 @@ namespace SimiSoft
                     txtPasword.Text = "";
                     txtUsuario.Text = "";
                     txtUsuario.Focus();
+                    //
                 }
             }
         }
